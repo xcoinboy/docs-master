@@ -32,8 +32,7 @@
 
 
 ## Articles and Papers
-* [Whitepaper URBC  v. 1](/whitepaper.pdf)
-* [whitepaper URBC  v. 2](/whitepaperv2.pdf)
+* [Whitepaper URBC  v. 1](https://urbancash.org/white-papper/)
 * [Whitepaper EURBC V. 1](/eurbcwhitepapper.pdf)
 
 \
